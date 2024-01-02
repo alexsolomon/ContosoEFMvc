@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoEFMvc", "ContosoEFMvc\ContosoEFMvc.csproj", "{73AB07DD-B52B-47F2-A7C8-978046055F58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoEFMVC.Test", "ContosoEFMVC.Test\ContosoEFMVC.Test.csproj", "{10162E7F-D249-452C-AD93-7F1A3759F4EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{73AB07DD-B52B-47F2-A7C8-978046055F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73AB07DD-B52B-47F2-A7C8-978046055F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73AB07DD-B52B-47F2-A7C8-978046055F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10162E7F-D249-452C-AD93-7F1A3759F4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10162E7F-D249-452C-AD93-7F1A3759F4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10162E7F-D249-452C-AD93-7F1A3759F4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10162E7F-D249-452C-AD93-7F1A3759F4EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
