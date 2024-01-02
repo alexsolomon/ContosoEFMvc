@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ContosoEFMVC\ContosoEFMvc.csproj" />
+    <ProjectReference Include="..\ContosoEFMvc\ContosoEFMvc.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update="appsettings.test.json">
